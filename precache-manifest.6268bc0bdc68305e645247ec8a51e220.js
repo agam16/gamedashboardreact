@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0cfea7ffd8b8c49add483c7adb9c0891",
+    "revision": "33390aaa23563446bad4dee2fd62cfad",
     "url": "/gamedashboardreact/index.html"
   },
   {
-    "revision": "52178177c394647a85dc",
+    "revision": "cfef2b8e759800b98f02",
     "url": "/gamedashboardreact/static/css/main.b6b5b3db.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gamedashboardreact/static/js/2.ae077952.chunk.js"
   },
   {
-    "revision": "52178177c394647a85dc",
-    "url": "/gamedashboardreact/static/js/main.0c5048ff.chunk.js"
+    "revision": "cfef2b8e759800b98f02",
+    "url": "/gamedashboardreact/static/js/main.3d5b2936.chunk.js"
   },
   {
     "revision": "2ab4cf83169b8fcc7be6",
