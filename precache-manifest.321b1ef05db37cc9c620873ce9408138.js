@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "730fa5cdbd35a0bc13ad8d5c1ab04779",
+    "revision": "8f98957c078ee90918b7b381a8f3b734",
     "url": "/gamedashboardreact/index.html"
   },
   {
-    "revision": "8a193b230073e9405fd0",
-    "url": "/gamedashboardreact/static/css/main.b394f913.chunk.css"
+    "revision": "fe16992bc0f146eabad7",
+    "url": "/gamedashboardreact/static/css/main.f8f027c8.chunk.css"
   },
   {
-    "revision": "a8b16f23dbca69029a90",
-    "url": "/gamedashboardreact/static/js/2.ce0a5a1b.chunk.js"
+    "revision": "dcf99809a710e39158a5",
+    "url": "/gamedashboardreact/static/js/2.633d9e37.chunk.js"
   },
   {
-    "revision": "8a193b230073e9405fd0",
-    "url": "/gamedashboardreact/static/js/main.31451469.chunk.js"
+    "revision": "fe16992bc0f146eabad7",
+    "url": "/gamedashboardreact/static/js/main.d63e173e.chunk.js"
   },
   {
     "revision": "2ab4cf83169b8fcc7be6",
@@ -50,5 +50,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4181e99a901a38e0b69b6c24538b1bc6",
     "url": "/gamedashboardreact/static/media/react.4181e99a.svg"
+  },
+  {
+    "revision": "2884ede4f6173a8d9b69d2e18da7a7e1",
+    "url": "/gamedashboardreact/static/media/shield.2884ede4.png"
   }
 ]);
