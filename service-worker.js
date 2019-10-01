@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gamedashboardreact/precache-manifest.9ca2e88af9c63a0af4737d839ec2f146.js"
+  "/gamedashboardreact/precache-manifest.73d06dc29fbf4cef146280f3158dea31.js"
 );
 
 self.addEventListener('message', (event) => {
